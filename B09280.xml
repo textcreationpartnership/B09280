@@ -1,0 +1,179 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Ireland.  By the Commissioners of the Common-wealth of England, for the affairs of Ireland. The said Commissioners, taking into their consideration the want the forces in Ireland would be in the next vvinter for hay, fire and candle, if a timely provision were not made for them, did by their order of the 21. of April last, referr the same to a Committee of Officers, who have (in order to a timely supply) offered as followeth.</title>
+            <author>Ireland. Commissioners of the Common-wealth of England for the Affairs of Ireland.</author>
+         </titleStmt>
+         <extent>Approx. 5KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B09280</idno><idno type="EEBO-CITATION">69648690</idno>
+  <idno type="VID">184943</idno>
+  <idno type="EEBO-PROQUEST">2240859189</idno>
+  
+            <idno type="OCLC"> 69648690</idno>
+            <idno type="STC">Wing I341B</idno>
+            <idno type="STC">ESTC R178598</idno>
+            <idno type="OCLC">69648690</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. B09280)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 184943)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 2881:15)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Ireland.  By the Commissioners of the Common-wealth of England, for the affairs of Ireland. The said Commissioners, taking into their consideration the want the forces in Ireland would be in the next vvinter for hay, fire and candle, if a timely provision were not made for them, did by their order of the 21. of April last, referr the same to a Committee of Officers, who have (in order to a timely supply) offered as followeth.</title>
+                  <author>Ireland. Commissioners of the Common-wealth of England for the Affairs of Ireland.</author>
+               </titleStmt>
+               <extent>1 sheet ([1] p.).   </extent>
+               <publicationStmt>
+                  <publisher>Printed by VVilliam Bladen,</publisher>
+                  <pubPlace>Dublin :</pubPlace>
+                  <date>Anno. Dom. 1654.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Title from caption and first lines of text.</note>
+                  <note>Reproduction of original in: Library Company of Philadelphia.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="corporate_name">England. --  Army --  Appropriations and expenditures --  Early works to 1800.</term>
+               <term type="geographic_name">Ireland --  History --  1649-1660.</term>
+               <term type="geographic_name">Great Britain --  History --  Commonwealth and Protectorate, 1649-1660.</term>
+               <term type="genre_form">Broadsides --  Ireland --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-04 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-10 </date>
+            <label>Simon Charles </label>Sampled and proofread </change>
+         <change>
+            <date>2014-10 </date>
+            <label>Simon Charles</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="declaration">
+            <pb facs="tcp:184943:1"/>
+            <head type="illustration">
+               <figure>
+                  <figDesc>seal, showing the arms of the Commonwealth</figDesc>
+                  <head>IRE-LAND</head>
+               </figure>
+            </head>
+            <opener>
+               <signed>¶ By the Commissioners of the Common-wealth of <hi>England,</hi> for the Affairs of <hi>Ireland.</hi>
+               </signed>
+            </opener>
+            <div type="introduction">
+               <p>
+                  <seg rend="decorInit">T</seg>HE said Commissioners, taking into their consideration the want the Forces in <hi>Ireland</hi> would be in the next VVinter for Hay, Fire and Candle, <gap reason="illegible" resp="#oxf" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>f a timely provision were not made for them, did by their Order of the 21. of <hi>April</hi> last, referr the same to a Committee of Officers, who have (in order to a timely supply) offered as followeth.</p>
+            </div>
+            <div type="section">
+               <head>FOR HAY.</head>
+               <p>
+                  <hi>FIrst,</hi> That Hay be provided for the Horse, according to the Number of Horse quartered in the respective Pre<g ref="char:EOLhyphen"/>cincts, and according to the proportion of 20 <hi>l.</hi> weight of Hay by the day for each Horse, as was formerly agreed upon by the Vote of a Council of Officers.</p>
+               <p>
+                  <hi>Secondly,</hi> That the Commander in chief in each Precinct, do appoint the place, and proportions where the same shall be stacked.</p>
+               <p>
+                  <hi>Thirdly,</hi> That the Commander in chief, with advice of the Commissioners of Revenue in each Precinct, do ap<g ref="char:EOLhyphen"/>point and set out Lands on which the said Hay shall be cut, contiguous as may be to the respective Garrisons, and places where the same is to be stacked: Provided the same be cut on Lands not set in <hi>Custodium</hi> to Officers, or o<g ref="char:EOLhyphen"/>thers at a certainty or belonging to Proprietors; And if no such Lands be found to lye convenient to the said Gar<g ref="char:EOLhyphen"/>risons and places; That then such excepted Lands be made use of, the Commissioners of Revenue paying a reason<g ref="char:EOLhyphen"/>able Rate for the same, to be by them or any two or more of them adjudged.</p>
+               <p>
+                  <hi>Fourthly,</hi> That the care of providing the said Hay shall be committed to the charge of the chief Officer in each Precinct, to give order to the respective Horse-Officers commanding Troops under them, to see the same effectual<g ref="char:EOLhyphen"/>ly provided.</p>
+               <p>
+                  <hi>Fifthly,</hi> That the said Officers of the respective Troops be allowed for making the said Hay, not exceeding ten Shil<g ref="char:EOLhyphen"/>lings by the Tun, to be paid for monthly out of the Treasury, according to such Certificates as the Commissioners of Revenue shall receive from the Quarter-Masters of the Troops, and certifyed by the Chief Officer of the said Troope, that the same is accordingly made and stacked, well conditioned. <hi>Provided,</hi> that the Commissioners of Revenue have power to administer an oath to such Quarter-Masters as they think fit, or doubt of their Certificates.</p>
+            </div>
+            <div type="section">
+               <head>Concerning FIRE, and CANDLE.</head>
+               <p>
+                  <hi>SIxthly,</hi> That Fire and Candle be allowed onely for the use of the Guards; the same to be provided and paid for by the State.</p>
+               <p>
+                  <hi>Seaventhly,</hi> That the Commander in chief and Commissioners of Revenue in the respective Precincts, do forth<g ref="char:EOLhyphen"/>with, and from time to time take effectual care that the said Guards be seasonably provided with Fire and Candle, at the cheapest and best rates they possibly can, returning their monthly accounts of the same to the Surveyors of the Revenue and Stores. In which provisions, the said Commander in chief and Commissioners of Revenue, are to have a special regard to length of nights and numbers of men in each Guard; the said allowance to commence the same from the 25 of <hi>Iune</hi> next.</p>
+            </div>
+            <div type="conclusion">
+               <p>The said Commissioners of the Common-wealth having considered of the aforesaid Resolves, do approve of them and every of them, and do hereby order and require the Commissioners of Revenue, and the other Officers concerned therein to observe the same.</p>
+               <p>And to the end no doubt may arise about paying for the said Hay, Fire, and Candle, the said Commissioners of the Common-wealth do hereby order the Commissioners of the Revenue, to pay for the same out of the Moneys growing due for in-land Excize, according to Instructions for issuing the Revenue. <hi>Provided,</hi> they exceed not the Rates aforesaid.</p>
+               <closer>
+                  <dateline>
+                     <date>May the Eighth, 1654.</date>
+                  </dateline>
+                  <signed>
+                     <list>
+                        <item>Charles Fleetwood.</item>
+                        <item>Miles Corbet.</item>
+                        <item>Jo: Jones.</item>
+                     </list>
+                  </signed>
+               </closer>
+            </div>
+         </div>
+      </body>
+      <back>
+         <div type="license" subtype="order_to_print">
+            <p>Ordered by the said Commissioners, That this Declaration be forthwith Printed and Published.</p>
+            <closer>
+               <signed>Signed by Order, <hi>&amp;c</hi> THOMAS HERBERT, Secr<gap reason="illegible" resp="#oxf" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </signed>
+            </closer>
+         </div>
+         <div type="colophon">
+            <p>❧ <hi>DƲBLIN,</hi> Printed by VVILLIAM BLANDEN, <hi>Anno. Dom.</hi> 1654.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
